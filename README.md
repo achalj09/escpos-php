@@ -116,7 +116,7 @@ If you use any other printer with this code, please [let us know](https://github
 If you are using composer, then add `mike42/escpos-php` as a dependency:
 
 ```bash
-composer require mike42/escpos-php
+composer require achalj09/escpos-php
 ```
 
 In this case, you would include composer's auto-loader at the top of your source files:
